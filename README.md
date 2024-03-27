@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sj22032003&label=Profile%20views&color=0e75b6&style=flat" alt="sj22032003" /> </p>
 
-- 🔭 I’m currently working on **learning TypeScript**
+- 🔭 I’m currently working on **NestJS, GraphQL, GO**
 
-- 💬 Ask me about **react , cp , c++ , javascript**
+- 💬 Ask me about **react, javascript, devops, gcp**
 
 - 📫 How to reach me **shobhitjaryal2203@yahoo.com**
 
